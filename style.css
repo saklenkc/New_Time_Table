@@ -1,0 +1,50 @@
+.Header{
+    border-top: 4px solid #000;
+}
+.center-img img{
+    width: 800px;
+}
+.right-content span{
+    color: rgb(0, 0, 255,0.5);
+    
+}
+
+.right-content h6{
+    font-size: 12px;
+
+}
+.right-content span:hover{
+    text-decoration: underline;
+    color: orange;
+}
+.navbar .navbar-nav .nav-item .nav-link{
+    color: #fff;
+}
+
+#project-slider{
+    
+}
+.work{
+    border: 3px solid #000;
+}
+#slider .news-content h6{
+    color: darkblue;
+    font-weight: bold;
+    font-size: 17px;
+}
+#slider ul span{
+    color: darkblue;
+    font-weight: bold;
+}
+/* Tirnga */
+#Home{
+    width: 100%;
+    height: 50vh;
+    display: flex;
+    align-items: center;
+}
+.first a{
+    color: brown;
+    font-size: 45px;
+    font-weight: 500;
+}
